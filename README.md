@@ -1,6 +1,6 @@
-% Rust Etude
+# Rust Etude
 
-# 教科書
+## 教科書
 
 - [Rust by Example](http://rustbyexample.com/std/hash.html)
 - [Rust book](https://doc.rust-lang.org/book/)
